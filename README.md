@@ -5,8 +5,6 @@ A minimalist wordpress theme based on http://zenhabits.net/theme/, modified by M
 
 You have to copy this folder content to your wp-content folder, create a WordPress page called “Archives”, and under the Page Attributes setting in the Page editor, choose “archives” from the list of drop-down templates.
 
-One more thing, you will have to edit the index.php file and to replace the harcoded link http://www.farcy.me/author/vfarcy/ with yours.
-
 Thath's it, you are now in.
 
 
