@@ -1,9 +1,13 @@
 zh2plusplus
 ===========
 
-A minimalist wordpress theme based on http://zenhabits.net/theme/, modified by Mike Walsh (https://plus.google.com/102887861371741311630) and myself.
+A minimalist wordpress theme based on http://zenhabits.net/theme/, modified by Mike Walsh (https://plus.google.com/102887861371741311630) and quickly patched in a quick and dirty way by myself.
 
-You just have to copy this folder content to your wp-content folder, create a WordPress page called “Archives” and under the Page Attributes setting in the Page editor, choose “archives” from the list of drop-down templates, and you are in.
+You have to copy this folder content to your wp-content folder, create a WordPress page called “Archives”, and under the Page Attributes setting in the Page editor, choose “archives” from the list of drop-down templates.
+
+One more thing, you will have to edit the index.php file and to replace the harcoded link http://www.farcy.me/author/vfarcy/ with yours.
+
+Thath's it, you are now in.
 
 
 
