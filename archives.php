@@ -23,7 +23,7 @@ Template Name: Archives
 
 		<form action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this)">
 
-			<p><h2><?php echo __('Search'); ?></h2> :<br />
+			<p><h2><?php echo __('Search'); ?></h2><br />
 			<input name="q" type="hidden" class="texta" />
 			<input name="qfront" type="text" style="width: 180px; text-size: 12px; height: 14px;" /> </p>
 

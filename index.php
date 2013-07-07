@@ -15,7 +15,7 @@
 
 		<br />
 		
-		<div class="all_posts"><a class="all-posts-link" href="/archives/"><?php echo __('See all posts &raquo;'); ?></a>
+		<div class="all_posts"><a class="all-posts-link" href="/archives/"><?php echo __('Voir tous les articles &raquo;'); ?></a>
 		</div> <!-- /end .all_posts -->
 
 		<?php endwhile; ?>
